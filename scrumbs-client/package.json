@@ -26,7 +26,7 @@
     "sass-loader": "^7.1.0",
     "source-map-loader": "^0.2.4",
     "style-loader": "^0.13.2",
-    "three": "^0.92.0",
+    "three": "^0.125.0",
     "transform-loader": "^0.2.4",
     "ts-loader": "^4.5.0",
     "tslint": "^5.15.0",
